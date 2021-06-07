@@ -3,6 +3,6 @@ import appMain from './js/main'
 import './css/normalize.css'
 import './css/style.css'
 import './css/card.css'
-// import './css/style.sass'
+// / import './css/style.sass'
 
 const app = new Vue(appMain);
